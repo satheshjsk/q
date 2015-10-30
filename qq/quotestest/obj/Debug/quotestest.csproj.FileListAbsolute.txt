@@ -1,0 +1,40 @@
+C:\Users\purvi\documents\visual studio 2012\Projects\quotestest\quotestest\bin\Debug\quotestest.exe.config
+C:\Users\purvi\documents\visual studio 2012\Projects\quotestest\quotestest\bin\Debug\quotestest.exe
+C:\Users\purvi\documents\visual studio 2012\Projects\quotestest\quotestest\bin\Debug\quotestest.pdb
+C:\Users\purvi\documents\visual studio 2012\Projects\quotestest\quotestest\bin\Debug\ta-IN\quotestest.resources.dll
+C:\Users\purvi\documents\visual studio 2012\Projects\quotestest\quotestest\obj\Debug\quotestest.View.Customer_Maintainence.resources
+C:\Users\purvi\documents\visual studio 2012\Projects\quotestest\quotestest\obj\Debug\quotestest.MDIQuote.resources
+C:\Users\purvi\documents\visual studio 2012\Projects\quotestest\quotestest\obj\Debug\quotestest.Properties.Resources.resources
+C:\Users\purvi\documents\visual studio 2012\Projects\quotestest\quotestest\obj\Debug\quotestest.MDIQuote.ta-IN.resources
+C:\Users\purvi\documents\visual studio 2012\Projects\quotestest\quotestest\obj\Debug\quotestest.csproj.GenerateResource.Cache
+C:\Users\purvi\documents\visual studio 2012\Projects\quotestest\quotestest\obj\Debug\ta-IN\quotestest.resources.dll
+C:\Users\purvi\documents\visual studio 2012\Projects\quotestest\quotestest\obj\Debug\quotestest.exe
+C:\Users\purvi\documents\visual studio 2012\Projects\quotestest\quotestest\obj\Debug\quotestest.pdb
+C:\Users\purvi\documents\visual studio 2012\Projects\quotestest\quotestest\obj\Debug\quotestest.csprojResolveAssemblyReference.cache
+C:\Users\PURVI\Downloads\quotestest\quotestest\bin\Debug\quotestest.exe.config
+C:\Users\PURVI\Downloads\quotestest\quotestest\obj\Debug\quotestest.exe
+C:\Users\PURVI\Downloads\quotestest\quotestest\obj\Debug\quotestest.pdb
+C:\Users\PURVI\Downloads\quotestest\quotestest\obj\Debug\quotestest.csprojResolveAssemblyReference.cache
+C:\Users\PURVI\Downloads\quotestest\quotestest\obj\Debug\quotestest.View.Customer_Maintainence.resources
+C:\Users\PURVI\Downloads\quotestest\quotestest\obj\Debug\quotestest.MDIQuote.resources
+C:\Users\PURVI\Downloads\quotestest\quotestest\obj\Debug\quotestest.Properties.Resources.resources
+C:\Users\PURVI\Downloads\quotestest\quotestest\obj\Debug\quotestest.MDIQuote.ta-IN.resources
+C:\Users\PURVI\Downloads\quotestest\quotestest\obj\Debug\quotestest.csproj.GenerateResource.Cache
+C:\Users\PURVI\Downloads\quotestest\quotestest\bin\Debug\quotestest.exe
+C:\Users\PURVI\Downloads\quotestest\quotestest\bin\Debug\quotestest.pdb
+C:\Users\PURVI\Downloads\quotestest\quotestest\bin\Debug\ta-IN\quotestest.resources.dll
+C:\Users\PURVI\Downloads\quotestest\quotestest\obj\Debug\ta-IN\quotestest.resources.dll
+C:\projects\quotestest\quotestest\bin\Debug\quotestest.exe.config
+C:\projects\quotestest\quotestest\obj\Debug\quotestest.exe
+C:\projects\quotestest\quotestest\obj\Debug\quotestest.pdb
+C:\projects\quotestest\quotestest\bin\Debug\Model\AccountDB.sdf
+C:\projects\quotestest\quotestest\bin\Debug\quotestest.exe
+C:\projects\quotestest\quotestest\bin\Debug\quotestest.pdb
+C:\projects\quotestest\quotestest\bin\Debug\ta-IN\quotestest.resources.dll
+C:\projects\quotestest\quotestest\obj\Debug\quotestest.csprojResolveAssemblyReference.cache
+C:\projects\quotestest\quotestest\obj\Debug\quotestest.View.Customer_Maintainence.resources
+C:\projects\quotestest\quotestest\obj\Debug\quotestest.MDIQuote.resources
+C:\projects\quotestest\quotestest\obj\Debug\quotestest.Properties.Resources.resources
+C:\projects\quotestest\quotestest\obj\Debug\quotestest.MDIQuote.ta-IN.resources
+C:\projects\quotestest\quotestest\obj\Debug\quotestest.csproj.GenerateResource.Cache
+C:\projects\quotestest\quotestest\obj\Debug\ta-IN\quotestest.resources.dll
